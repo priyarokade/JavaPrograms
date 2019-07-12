@@ -1,0 +1,7 @@
+class Names
+{
+	public static final Names Aasha = new Names() ;
+	public static final Names Vibha = new Names() ;
+	public static final Names Sujal = new Names() ;
+
+}
