@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [BDD Test Suite]">
+  <test name="Regression Test">
+    <classes>
+      <class name="com.wallethum.testrunner.TestRunner"/>
+    </classes>
+  </test> <!-- Regression Test -->
+  <test name="Regression Test(failed)">
+    <classes>
+      <class name="com.wallethum.testrunner.TestRunner">
+        <methods>
+          <include name="feature"/>
+          <include name="setUpClass"/>
+          <include name="testDownClass"/>
+        </methods>
+      </class> <!-- com.wallethum.testrunner.TestRunner -->
+    </classes>
+  </test> <!-- Regression Test(failed) -->
+</suite> <!-- Failed suite [BDD Test Suite] -->

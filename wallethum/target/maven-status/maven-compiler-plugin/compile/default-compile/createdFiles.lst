@@ -1,0 +1,4 @@
+com\wallethum\helper\LoggerHelper.class
+com\wallethum\helper\ResourceHelper.class
+com\wallethum\config\Browsers.class
+com\wallethum\testbase\TestBase.class

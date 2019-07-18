@@ -1,0 +1,21 @@
+2019-07-18 12:07:157 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2019-07-18 12:07:878 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2019-07-18 12:07:604 INFO  WaitHelper:26 - element is visible..
+2019-07-18 12:07:655 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2019-07-18 12:07:643 INFO  WaitHelper:26 - element is visible..
+2019-07-18 12:07:693 INFO  ProfilePage:74 - Login Successful
+2019-07-18 12:07:357 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2019-07-18 12:07:521 INFO  WaitHelper:26 - element is visible..
+2019-07-18 12:07:673 INFO  ProfileTestInsurancePage:60 - User is successfully navigated to profile insurance page 
+2019-07-18 12:07:314 INFO  ProfileTestInsurancePage:70 - Rating heading  is displayed 
+2019-07-18 12:07:02 INFO  ReviewPageObjects:72 - Review Page is displayed successfully
+2019-07-18 12:07:453 INFO  ReviewPageObjects:83 - health insurance plan selected
+2019-07-18 12:07:742 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2019-07-18 12:07:440 INFO  WaitHelper:26 - element is visible..
+2019-07-18 12:07:722 INFO  ReviewConfirmationPageObjects:71 - Review confirmation message is submitted successfully
+2019-07-18 12:07:753 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2019-07-18 12:07:59 INFO  WaitHelper:26 - element is visible..
+2019-07-18 12:07:672 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2019-07-18 12:07:902 INFO  WaitHelper:26 - element is visible..
+2019-07-18 12:07:622 INFO  ProfilePage:85 - Review message is published successfully
+2019-07-18 12:07:231 INFO  ServiceHooks:42 - Write Review for Health plan insurance for new user is pass

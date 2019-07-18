@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="244896" started-at="2019-07-18T07:06:11Z" finished-at="2019-07-18T07:10:16Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="TestRunner.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.wallethum.testrunner.TestRunner@68999068]" name="feature" class="com.wallethum.testrunner.TestRunner"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="244896" started-at="2019-07-18T07:06:11Z" finished-at="2019-07-18T07:10:16Z">
+      <class name="com.wallethum.testrunner.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.wallethum.testrunner.TestRunner@68999068]" name="setUpClass" is-config="true" duration-ms="369" started-at="2019-07-18T12:36:11Z" finished-at="2019-07-18T12:36:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.wallethum.testrunner.TestRunner@68999068]" name="feature" duration-ms="230072" started-at="2019-07-18T12:36:12Z" description="Runs cucmber Features" data-provider="features" finished-at="2019-07-18T12:40:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ValidateProfile]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="testDownClass()[pri:0, instance:com.wallethum.testrunner.TestRunner@68999068]" name="testDownClass" is-config="true" duration-ms="507" started-at="2019-07-18T12:40:08Z" finished-at="2019-07-18T12:40:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDownClass -->
+      </class> <!-- com.wallethum.testrunner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
